@@ -1,0 +1,19 @@
+522e457c40fac51d9dc28a6b28cb68ad0a909fe765a17755a51e3d4f6eaf9229
+Hosam Mohamed
+Hosam
+add | إضافة
+apple | تفاحة
+bird | عصفور
+boat | مركب
+candle | شمعة
+car | سيارة
+cat | قطة - هرة
+dark | غامق - داكن
+database | قاعدة بيانات
+dinner | العشاء
+Encryption | تشفير
+garden | حديقة
+key | مفتاح
+plan | خطة
+road | طريق
+zoo | حديقة الحيوان
